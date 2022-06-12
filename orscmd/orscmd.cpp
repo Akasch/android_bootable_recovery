@@ -54,7 +54,7 @@ void print_usage(void) {
 	printf("  listmounts\n");
 	printf("  print <value>\n");
 	printf("  mkdir <directory>\n");
-	printf("  reboot [recovery|poweroff|bootloader|download|edl]\n");
+	printf("  reboot [recovery|poweroff|bootloader|download|edl|fastboot]\n");
 	printf("\nSee more documentation at https://twrp.me/faq/openrecoveryscript.html\n");
 }
 
